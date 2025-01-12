@@ -1,1 +1,13 @@
-# NursingChatbot
+간병케어 챗봇
+
+1. 이 프로젝트는 치매 환자의 상태를 검사하는 프로그램과 간병 챗봇을 구현한 것입니다. 
+사용자는 치매 상태 검사(MMSE-K, RAVLT)와 챗봇을 통해 간병 관련 상담을 받을 수 있습니다.
+프로그램은 간병에 관한 질문을 다루거나 치매 관련 검사를 통해 환자의 상태를 평가합니다.
+
+2. Nursing_care_chatbot.py 실행
+(openai.api_key 챗봇 API 키)
+
+3. Python 3.10.3
+
+4. matplotlib==3.7.1
+openai==0.27.0
